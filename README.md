@@ -1,16 +1,14 @@
-## Hi there 👋
+# hello world
+Desenvolvedor Web Front-end Junior
 
-<!--
-**g-coutos/g-coutos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Have been working with ReactJs and Angular.
+- 🌱 Have been learning about back-end development with django.
+- 🌎 .
 
-Here are some ideas to get you started:
+- 📫 Como entrar em contato comigo:
+  - gcoutos95@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hard Skills 
+`HTML5`|`CSS3`|`JavaScript`|`ReactJs`|`Typescript`|`Redux`|`GitHub`|`MUI`|`Chakra UI`|`styled-components`|`Scrum`|`Figma`| `django`
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=g-coutos&theme=dracula&show_icons=true)]
