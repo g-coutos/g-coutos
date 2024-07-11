@@ -3,7 +3,6 @@ Desenvolvedor Web Front-end Junior
 
 - 🔭 Have been working with ReactJs and Angular.
 - 🌱 Have been learning about back-end development with django.
-- 🌎 .
 
 - 📫 Como entrar em contato comigo:
   - gcoutos95@gmail.com
