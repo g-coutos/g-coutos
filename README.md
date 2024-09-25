@@ -1,7 +1,7 @@
 # _fullstack developer_
 - 🔭 Have been working with ReactJs and Angular.
 - 🌱 Have been learning about back-end development with django.
-- - 🫀In love with remote work.
+- 🫀In love with remote work.
 
 ### Hard Skills 
 `HTML5`|`CSS3`|`JavaScript`|`ReactJs`|`Typescript`|`Redux`|`GitHub`|`MUI`|`Chakra UI`|`styled-components`|`Scrum`|`Figma`| `django`
