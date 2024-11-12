@@ -1,5 +1,5 @@
 # _fullstack developer_
-- 🔭 Have been working with ReactJs and Angular.
+- 🔭 Have been working with ReactJs, Angular and Django
 - 🌱 Have been learning about back-end development with django.
 - 🫀In love with remote work.
 
