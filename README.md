@@ -1,4 +1,4 @@
-# _fullstack developer_
+## _software engineer_
 - 🔭 Have been working with ReactJs, Angular and Django
 - 🌱 Have been learning about back-end development with python.
 - 🫀In love with remote work.
