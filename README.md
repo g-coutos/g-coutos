@@ -1,6 +1,6 @@
 ## _software engineer_
 - 🔭 Have been working with ReactJs, Angular and Django
-- 🌱 Have been learning about back-end development with python.
+- 🌱 Have been learning about Data Engineering.
 - 🫀In love with remote work.
 - 🇧🇷 Portuguese | 🇺🇸 English
 
